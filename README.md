@@ -1,3 +1,3 @@
 # AI_Project
 
-Co-creaeted by Abhinav Gangrade and Anwesh Padhi.
+This Project is for classification and prediction of Chest x rays into Covid and non-Covid groups.
